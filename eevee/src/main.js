@@ -25,7 +25,7 @@ import { Utils } from './util';
     let amount = 0, particles = [], color, stats, skip = 0;
 
     if (navigator.userAgent.indexOf('iPhone') > 0 || navigator.userAgent.indexOf('Android') > 0 && navigator.userAgent.indexOf('Mobile') > 0 || navigator.userAgent.indexOf('iPad') > 0 || navigator.userAgent.indexOf('Android') > 0) {
-        skip = 50;
+        skip = 41;
     } else {
         skip = 200;
     }
