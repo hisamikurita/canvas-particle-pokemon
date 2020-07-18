@@ -1,4 +1,4 @@
-# pokemon
+# canvas-particle-pokemon
 
 * <a href="https://hisamikurita.github.io/canvas-particle-pokemon/pikachu/dist/">DEMO</a>
 
