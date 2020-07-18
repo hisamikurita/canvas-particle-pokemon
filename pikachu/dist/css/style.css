@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    position: relative;
+    background-color: #779b9e;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+#wrap {
+    height: 100%;
+    width: 100%;
+}
+
+canvas {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
